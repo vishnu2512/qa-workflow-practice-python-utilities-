@@ -14,3 +14,11 @@ QA and workflow validation role, with emphasis on clear and defensive code.
 ## Notes
 These scripts are intentionally simple and prioritise clarity and
 correctness over complexity.
+
+## How to Run
+Each script can be run independently using Python 3.
+
+Example:
+python input_validation.py
+python file_reader.py
+python workflow_check.py

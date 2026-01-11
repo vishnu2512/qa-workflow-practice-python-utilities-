@@ -1,0 +1,2 @@
+This is a sample file.
+Used for basic file reading practice.
